@@ -5,7 +5,6 @@
   "main": "app.py",
   "scripts": {
  
-   
     "start": "python app.py"
     
   },
